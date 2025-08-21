@@ -2,7 +2,7 @@
 tip: 0
 title: Improve the Sharing Rewards and DAO Rewards
 author: master@a8ai.io
-status: Review
+status: Final
 created: 2025-08-20
 ```
 
